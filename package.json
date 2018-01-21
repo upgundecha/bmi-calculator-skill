@@ -1,0 +1,15 @@
+{
+  "name": "bmi-calculator-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "upgundecha",
+  "license": "ISC",
+  "devDependencies": {
+    "alexa-sdk": "^1.0.25",
+    "request": "^2.83.0"
+  }
+}
